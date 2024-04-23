@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "2005",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test4"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test4"
+  },
+  "course_title": "test4",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test4"
+  },
+  "learning_resource_types": [],
+  "site_uid": "96a26e00-26b3-4605-a9be-e288fc6ffc04",
+  "site_short_id": "test4"
+}
